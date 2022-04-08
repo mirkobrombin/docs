@@ -40,8 +40,12 @@ flatpak install flathub com.usebottles.bottles
 
 You can choose a gaming, application, or custom environment. In this example we will install
 
+<<<<<<< HEAD
 1. Launch Bottles and click through the introductory screens. Click `Create a new Bottle`.
   ![Create a new bottle](/images/using-bottles/create-new-bottle.png)
+=======
+1. Launch Bottles.
+>>>>>>> 1441bd5acb83b6de68b35bf859afe7d71e135085
 2. Select the option to create an `Application` environment. Enter a new for your new bottle, then click `Create`.
   ![Select Application Environment](/images/using-bottles/select-application-environment.png)
 3. Wait while required dependencies and libraries are installed. Click `Close` when the process completes.
@@ -55,7 +59,11 @@ You can choose a gaming, application, or custom environment. In this example we 
 7. Complete the setup wizard for your Windows executable.
   ![Complete Setup](/images/using-bottles/complete-setup.png)
 
+<<<<<<< HEAD
 ### See Also
+=======
+## See Also
+>>>>>>> 1441bd5acb83b6de68b35bf859afe7d71e135085
 
 - [Gaming on Pop!\_OS](/articles/linux-gaming/)
 - [Creating Virtual Machines in Linux](/articles/virtualization/)
