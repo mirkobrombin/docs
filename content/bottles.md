@@ -55,7 +55,6 @@ You can choose a gaming, application, or custom environment. In this example we 
 7. Complete the setup wizard for your Windows executable.
   ![Complete Setup](/images/using-bottles/complete-setup.png)
 
-
 ### See Also
 
 - [Gaming on Pop!\_OS](/articles/linux-gaming/)
